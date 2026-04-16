@@ -8,8 +8,8 @@ public class Pessoa {
     
     public void exibir(){
         System.out.println("Nome: "+getNome()+ 
-                "- Idade: "+getIdade()+
-                "- CPF: "+getCpf());
+                " - Idade: "+getIdade()+
+                " - Cpf: "+getCpf());
     }
     
     
