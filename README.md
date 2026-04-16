@@ -2,7 +2,8 @@
 # Sistema de Cadastro de Pessoas (Java)
 
 ## 📌 Sobre o Projeto
-Este projeto é um sistema simples de cadastro de pessoas desenvolvido em **Java**, com execução via terminal. Ele permite realizar operações básicas como:
+Este projeto é um sistema simples de cadastro de pessoas desenvolvido em **Java**, com execução via terminal.
+Ele permite realizar operações básicas como:
 
 - Cadastrar pessoas
 - Listar pessoas cadastradas
@@ -47,12 +48,14 @@ A evolução deste projeto será a implementação de uma **interface gráfica**
 
 - **Java Swing**
 
-Com isso, o sistema deixará de ser executado no terminal e passará a ter uma interface visual mais amigável para o usuário.
+Com isso, o sistema deixará de ser executado no terminal e passará a ter uma interface visual mais amigável
+para o usuário.
 
 ---
 
 ## 📚 Observação
-Este projeto foi desenvolvido com foco didático. O código é intencionalmente simples para facilitar o entendimento dos alunos iniciantes.
+Este projeto foi desenvolvido com foco didático. O código é intencionalmente simples para facilitar o
+entendimento dos alunos iniciantes.
 
 ---
 ```
